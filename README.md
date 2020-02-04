@@ -5,7 +5,7 @@
 ### 1. creamos el topic.
 ![Pantallazo de Hive](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/creando%20el%20topic1.PNG)
 ### 2. creamos el productor en la terminal y mandamos el json.
-![Pantallazo de Hive](https://github.com/juanakan/Bigdata-architecture/blob/master/select.PNG)
+![Pantallazo de Hive](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/lanzar%20el%20productor%20en%20consola.PNG)
 ### 3. creamos el consumidor en scala.
 ![Pantallazo de Hive](https://github.com/juanakan/Bigdata-architecture/blob/master/select.PNG)
 ### 4. mostramos el resultado.
