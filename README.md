@@ -3,9 +3,13 @@
 ## Practica Spark Scala
 
 ### 1. creamos el topic.
+![Pantallazo de Hive](https://github.com/juanakan/Bigdata-architecture/blob/master/select.PNG)
 ### 2. creamos el productor en la terminal y mandamos el json.
+![Pantallazo de Hive](https://github.com/juanakan/Bigdata-architecture/blob/master/select.PNG)
 ### 3. creamos el consumidor en scala.
+![Pantallazo de Hive](https://github.com/juanakan/Bigdata-architecture/blob/master/select.PNG)
 ### 4. mostramos el resultado.
+![Pantallazo de Hive](https://github.com/juanakan/Bigdata-architecture/blob/master/select.PNG)
 
 1.  Usando la sintaxis vista en clase con el método  Kafka-console-producer.sh 
  
