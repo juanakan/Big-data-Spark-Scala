@@ -13,4 +13,4 @@
 
 
 ## Ejercicio configuracion Zeppelin
-![Configuración Zeppelin](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/resultado%20json.PNG)
+![Configuración Zeppelin](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/Configuracion_zeppelin.pdf)
