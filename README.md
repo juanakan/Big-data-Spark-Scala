@@ -10,3 +10,7 @@
 ![Creamos consumidor](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/Codigo%20Consumidor.PNG)
 ### 4. mostramos el resultado.
 ![Resultado](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/resultado%20json.PNG)
+
+
+## Ejercicio configuracion Zeppelin
+![Configuración Zeppelin](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/resultado%20json.PNG)
