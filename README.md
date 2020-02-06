@@ -7,7 +7,7 @@
 ### 2. creamos el productor en la terminal y mandamos el json.
 ![Creamos el productor](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/lanzar%20el%20productor%20en%20consola.PNG)
 ### 3. creamos el consumidor en scala.
-![Creamos consumidor](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/Codigo.PNG)
+![Creamos consumidor](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/codigo.PNG)
 ### 4. mostramos el resultado.
 ![Resultado](https://github.com/juanakan/Big-data-Spark-Scala/blob/master/resultado%20json.PNG)
 
